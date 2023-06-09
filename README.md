@@ -11,3 +11,9 @@ If you use this code, please cite our paper.
   organization={PMLR}
 }
 ```
+## Usage
+
+Here is an example for PyTorch: 
+```
+python PFL.py --dataset cifar10 --node_num 10 --max_lost 3 --R 200 --E 5
+```
