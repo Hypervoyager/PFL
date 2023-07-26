@@ -3,7 +3,7 @@ Official implementation for paper "No One Idles: Efficient Heterogeneous Federat
 
 **TLDR:** We achieve parallel computing between the central server and the edge nodes in Federated Learning.
 
-**If your project requires executing complex computational tasks on a central server, please use our solution! Our framework allows the aggregation process on the central server and the training process on edge devices to conduct in parallel, thereby improving training efficiency.**
+**If your project requires executing complex computational tasks on the central server, please use our solution! Our framework allows the aggregation process on the central server and the training process on edge devices to conduct in parallel, thereby improving training efficiency.**
 
 ## Citation
 If you use this code, please cite our paper.
